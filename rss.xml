@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kylonas]]></title>
         <description><![CDATA[kylonas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kylonas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 16:21:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 16:23:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kylonas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Was passiert hier so?</p>]]></description>
+            <link>https://thegrid.ai/kylonas/was-passiert-hier-so/index.html</link>
+            <guid isPermaLink="false">bb3a75d0-8d9a-41d8-ae89-995b767d9b35</guid>
+            <pubDate>Wed, 08 Jun 2016 16:23:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a7c433a-5067-4474-8e2c-86846838a325.png">]]></description>
-            <link>undefinedlos-gehts-beta-test/index.html</link>
+            <link>https://thegrid.ai/kylonas/los-gehts-beta-test/index.html</link>
             <guid isPermaLink="false">f6cb3415-166a-488c-b4fa-8e58c80f391c</guid>
             <pubDate>Wed, 08 Jun 2016 16:20:35 GMT</pubDate>
         </item>
